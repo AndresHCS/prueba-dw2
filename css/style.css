@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+:root{
+	
+}
+
+#hero{
+	background-color: #09090d;
+	padding-top: 20px;
+	padding-left: 100px;
+}
+
+h1{
+	color: #edeff5;
+}
+
+p{
+	color: #7e8394;
+}
+#hero h4{
+	font-weight: 100;
+	color: #EEB54E;
+	padding-bottom: 5px;
+}
+
+#hero h1{
+	font-size: 50px;
+	font-weight: 600;
+	padding-bottom: 15px;
+}
+
+#hero p{
+	padding-bottom: 50px;
+}
+
+#hero .btn-swape{
+	background-color: #465072;
+	color: #fff;
+	text-transform: uppercase;
+	padding: 5px 10px 5px;
+	border-radius: 20px;
+}
+
+#features1{
+	padding-top: 100px;
+	background-color: #101117;
+}
+
+#features1 .arriba{
+	text-align: center;
+	padding-bottom: 80px;
+}
+
+
+#features1 .arriba i{
+	font-size: 30px;
+	color: #EEB54E !important;
+	background-color: transparent !important;
+	padding-bottom: 10px;
+}
+
+#features1 .derecha{
+	padding-left: 20px;
+}
+
+#features1 .derecha .texto{
+	padding-left: 18px;
+}
+
+
+#features1 .derecha i{
+	background-color: #EEB54E;
+	color: #eee;
+	padding: 10px;
+	border-radius: 20px;
+	font-size: 20px;
+}
+
+#features1 .derecha h4{
+	color: #edeff5;
+	font-size: 20px;
+}
+
+#features1 .derecha p{
+	font-size: 10px;
+}
+
+
+
+#features2{
+	padding-top: 100px;
+	background-color: #131425;
+}
+
+
+
+#features2 .derecha{
+	padding-left: 20px;
+	padding-top: 50px;
+}
+
+#features2 .derecha .texto{
+	padding-left: 18px;
+}
+
+
+#features2 .derecha i{
+	color: #EEB54E;
+	padding: 10px;
+	border-radius: 20px;
+	font-size: 25px;
+}
+
+#features2 .derecha h4{
+	color: #edeff5;
+	font-size: 12px;
+}
+
+#features2 .derecha p{
+	font-size: 9px;
+}
+
+
+#features2 .derecha .texto{
+	padding-left: 30px;
+}
+
+
+#features2 .izquierda{
+	padding-right: 40px;
+	padding-top: 50px;
+}
+
+#features2 .izquierda .texto{
+	padding-right: 1px;
+	text-align: right;
+}
+
+
+#features2 .izquierda i{
+	color: #EEB54E;
+	padding: 10px;
+	border-radius: 20px;
+	font-size: 25px;
+}
+
+#features2 .izquierda h4{
+	color: #edeff5;
+	font-size: 12px;
+}
+
+#features2 .izquierda p{
+	font-size: 9px;
+}
+
+
+#subscribe{
+	background-color: #181a1f;
+	text-align: center;
+	align-content: center;
+	color: #fff;
+}
+
+#subscribe h1{
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+
+#subscribe .btn-pagina{
+	color: #fff;
+	border-color: #fff;
+}
+
+#subscribe h4{
+	padding-top: 50px;
+	padding-bottom: 30px;
+	font-size: 20px;
+}
+
+#logos{
+	background-color: #131425;
+	padding: 30px 0;
+	text-align: center;
+}
+
+#logos i{
+	color: #fff;
+	font-size: 60px;
+	padding: 0 70px;
+}
+
+footer{
+	background-color: #000;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
